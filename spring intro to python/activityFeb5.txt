@@ -1,0 +1,4 @@
+1.When we use the TV remote to mute the volume.
+2.nteger: represents positive or negative whole numbers like 3 or -512. Floating point number ( float ): represents real numbers like 3.14
+3.containers that hold values
+4.On/Off or Yes/No.
